@@ -1,0 +1,4 @@
+biolearn
+streamlit
+matplotlib
+seaborn 

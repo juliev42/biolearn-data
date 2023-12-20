@@ -1,0 +1,12 @@
+ID,Title,Format,Samples,Age Present,Sex Present
+GSE40279,Genome-wide Methylation Profiles Reveal Quantitative Views o…,Illumina450k,656,Yes,Yes
+GSE19711,Genome wide DNA methylation profiling of United Kingdom Ovar…,Illumina27k,540,Yes,No
+GSE51057,Methylome Analysis and Epigenetic Changes Associated with Me…,Illumina450k,329,Yes,Yes
+GSE42861,Differential DNA methylation in Rheumatoid arthritis,Illumina450k,689,Yes,Yes
+GSE41169,Blood DNA methylation profiles in a Dutch population,Illumina450k,95,Yes,Yes
+GSE51032,EPIC-Italy at HuGeF,Illumina450k,845,Yes,No
+GSE73103,Many obesity-associated SNPs strongly associate with DNA met…,Illumina450k,355,Yes,Yes
+GSE69270,Aging-associated DNA methylation changes in middle-aged indi…,Illumina450k,184,Yes,No
+GSE36054,Methylation Profiling of Blood DNA from Healthy Children,Illumina450k,192,No,No
+GSE64495,DNA methylation profiles of human blood samples from a sever…,Illumina450k,113,Yes,Yes
+GSE30870,DNA methylomes of Newborns and Nonagenarians,Illumina450k,40,Yes,No

@@ -1,0 +1,19 @@
+Name,Year,Species,Tissue,Predicts,Source,Coefficients
+Horvathv1,2013,Human,Multi-tissue,Age (Years),paper,coefficients file
+Hannum,2013,Human,Blood,Age (Years),paper,coefficients file
+Lin,2016,Human,Blood,Age (Years),paper,coefficients file
+PhenoAge,2018,Human,Blood,Age (Years),paper,coefficients file
+Horvathv2,2018,Human,Skin + blood,Age (Years),paper,coefficients file
+PEDBE,2019,Human,Buccal,Age (Years),paper,coefficients file
+Zhang_10,2019,Human,Blood,Mortality Risk,paper,coefficients file
+DunedinPoAm38,2020,Human,Blood,Aging Rate (Years/Year),paper,coefficients file
+DunedinPACE,2022,Human,Blood,Aging Rate (Years/Year),paper,coefficients file
+AlcoholMcCartney,2018,Human,Blood,Alcohol Consumption,paper,coefficients file
+BMI_McCartney,2018,Human,Blood,BMI,paper,coefficients file
+DNAmTL,2019,Human,"Blood, Adipose",Telomere Length,paper,coefficients file
+HRSInCHPhenoAge,2022,Human,Blood,Age (Years),paper,coefficients file
+Knight,2016,Human,Cord Blood,Gestational Age,paper,coefficients file
+LeeControl,2019,Human,Placenta,Gestational Age,paper,coefficients file
+LeeRefinedRobust,2019,Human,Placenta,Gestational Age,paper,coefficients file
+LeeRobust,2019,Human,Placenta,Gestational Age,paper,coefficients file
+SmokingMcCartney,2018,Human,Blood,Smoking Status,paper,coefficients file
